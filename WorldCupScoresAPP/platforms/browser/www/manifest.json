@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "WorldCupScores",
+  "short_name": "WorldCupScores",
+  "version": "com.ivnbrv.worldcupscores",
+  "description": "World Cup Score, Challange!",
+  "author": "Research and Development Team",
+  "icons": [],
+  "start_url": "dist/index.html"
+}
